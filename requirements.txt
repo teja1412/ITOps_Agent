@@ -1,0 +1,36 @@
+# LangGraph
+langgraph
+langgraph - checkpoint - sqlite
+
+# LLM Integration
+langchain
+langchain - google - genai
+
+# Document Processing
+pypdf
+python - docx
+
+# Embeddings and Vector Search
+faiss - cpu
+sentence - transformers
+
+# BM25 Search
+rank - bm25
+
+# API and Backend
+fastapi
+uvicorn
+pydantic
+python - dotenv
+httpx
+
+# Database
+sqlalchemy
+aiosqlite
+
+# Testing
+pytest
+pytest - asyncio
+
+# Observability
+langsmith
